@@ -2,3 +2,8 @@ body{
 background-color: red;
 color: blue;
 }
+
+h1{
+    color: pink;
+    padding: 2px;
+}
