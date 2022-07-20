@@ -3,3 +3,8 @@ html{
   font-size: 12px;
   font-weight: bold;
 }
+
+h1{
+    color: pink;
+    padding: 2px;
+}
