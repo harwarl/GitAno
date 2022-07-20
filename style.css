@@ -1,7 +1,6 @@
-html{
- font-family: cursive;
-  font-size: 12px;
-  font-weight: bold;
+h1, p{
+    border-radius: 2px;
+    border: 2px solid #434343;
 }
 
 body{
