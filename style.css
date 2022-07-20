@@ -14,8 +14,4 @@ h1{
     padding: 2px;
 }
 
-@media(max-width: 500px){
- h1{
-  color: red;
- }
-}
+
