@@ -4,6 +4,12 @@ html{
   font-weight: bold;
 }
 
+body{
+    background-color: plum;
+    color: lime;
+}
+
+
 h1{
     color: pink;
     padding: 2px;
