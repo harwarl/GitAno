@@ -4,3 +4,8 @@ body{
   padding: 10px 0;
   color: blue;
 }
+
+h1{
+    color: pink;
+    padding: 2px;
+}
